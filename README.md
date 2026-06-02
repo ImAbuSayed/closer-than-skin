@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/closer-than-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Closer Than Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/closer-than-skin/) |
+| **Get License** | [Commercial Licensing for Closer Than Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/closer-than-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel your breath before you even speak
+> Shadows dancing softly on your cheek
+> Every time we let the silence fall
+> I don't need a single word at all
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
