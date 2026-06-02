@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/closer-than-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Closer Than Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/closer-than-skin/) |
+| **Get License** | [License this song: Closer Than Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/closer-than-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `734c6cf8ccb76e18f902f12fbf0eae36b03ad5ea65c244e41857d8484b6c8347` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

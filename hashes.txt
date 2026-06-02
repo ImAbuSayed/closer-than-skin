@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Closer Than Skin
+
+This log tracks the cryptographic history and versioning for the song **Closer Than Skin** (closer-than-skin).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T14:00:24.895562 | `v1` | `734c6cf8ccb76e18f902f12fbf0eae36b03ad5ea65c244e41857d8484b6c8347` | `cf1ba8115c5e644108502c229b5e07ce40a6d19cb3f8280244942f7fd3615622` | `2026-06-02_closer-than-skin-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
